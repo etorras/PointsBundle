@@ -1,0 +1,25 @@
+{
+    "name": "etorras/points-bundle",
+    "type": "symfony-bundle",
+    "description": "Example bundle for use with Symfony2",
+    "keywords": ["example", "bundle"],
+    "homepage": "http://github.com/etorras/PointsBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Quique Torras",
+            "email": "etorras@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "require-dev": {
+        "symfony/framework-bundle": ">=2.1,<2.2-dev"
+    },
+    "autoload": {
+        "psr-0": { "etorras\\PointsBundle": "" }
+    },
+    "minimum-stability": "dev",
+    "target-dir": "etorras/PointsBundle"
+}
