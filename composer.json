@@ -1,5 +1,5 @@
 {
-    "name": "etorras/points-bundle",
+    "name": "ps/points-bundle",
     "type": "symfony-bundle",
     "description": "Example bundle for use with Symfony2",
     "keywords": ["example", "bundle"],
